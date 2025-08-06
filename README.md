@@ -1,8 +1,14 @@
-# CG 2024/2025
+# FEUP - Computer Graphics - 2024/2025
+> Curricular Unit: CG - [Computação Gráfica](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=541892)
+## 3rd Year - 2nd Semester Project
+### Brief description:
+This project presents a comprehensive 3D fire rescue simulation featuring a firefighting helicopter in action. Built using modern computer graphics techniques, the application showcases realistic environments including forest landscapes, fire station facilities, and dynamic fire scenarios. 
 
-## Group T01G11
+The simulation features a fully controllable helicopter capable of aerial maneuvers and fire suppression operations, complete with water-dropping animations and realistic flight physics. The project demonstrates advanced rendering techniques including shader-based animations for the helipad maneuvering sequences, particle systems for fire and smoke effects, and detailed 3D modeling of terrain and structures.
 
-## Project
+Key features include panoramic environmental views, realistic helicopter flight mechanics, dynamic fire propagation and extinguishing systems, and immersive visual effects that create an engaging firefighting simulation experience. The project emphasizes both technical proficiency in 3D graphics programming and artistic attention to detail in creating believable emergency response scenarios.
+
+### Group T01G11
 
 ### Screenshots
 
@@ -11,7 +17,6 @@
 `Figure 1: Panorama`
 
 ---
-
 
 ![Fire Station Building](screenshots/project-t01-g11-2.png)
 
@@ -61,3 +66,5 @@
 | ---------------------------------- | --------- | ----------------- |
 | Diogo Miguel Fernandes Ferreira    | 202205295 | up202205295@up.pt |
 | Xavier dos Santos Portugal Martins | 202206632 | up202206632@up.pt |
+
+I hope you find it useful!
